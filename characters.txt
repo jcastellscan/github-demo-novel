@@ -1,4 +1,4 @@
-Charac1 - change1
+Charac1 - change2
 Charac2 - change1
 Charac3 - change1
 Charac4 - change1
